@@ -6,7 +6,7 @@ import { Routes, Route } from "react-router-dom";
 import PrivateComponent from "./components/PrivateComponent";
 import Products from "./components/Products";
 import AddProduct from "./components/AddProduct";
-import Login from "./components/login";
+import Login from "./components/Login";
 import UpdateProducts from "./components/UpdateProducts";
 
 function App() {
